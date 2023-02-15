@@ -1,0 +1,49 @@
+body {
+  background: gray;
+}
+.tweet {
+  color: white;
+  background: black;
+  width: 500px;
+  height: auto;
+  border: gray;
+  border-style: solid;
+  border-radius: 12pt;
+  font-family: Helvetica;
+  font-size: 18pt;
+}
+img {
+  padding-left: 12px;
+  padding-top: 12px;
+  border-radius: 100%;
+}
+.user-info { 
+  color: white;
+  width: 510px;
+  padding-top: 20px;
+  padding-left: 90px;
+  font-size: 15pt;
+}  
+.tweet-body {
+  padding: 12px;
+  border-radius: 12pt;
+}
+.tweet-bottom {
+  padding: 12px;
+  font-size: 15pt;
+}
+.aa {
+  color: grey;
+}
+.bb {
+  align-items: left;
+}
+a {
+  color: #0060B6;
+  text-decoration: none;
+}
+a:hover {
+  color:#00A0C6; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
